@@ -1,0 +1,23 @@
+{
+  "name": "atastyarrayburger",
+  "version": "1.0.0",
+  "description": "Burgers and array management",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/aTastyArrayBurger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/aTastyArrayBurger/issues"
+  },
+  "homepage": "https://github.com/Plasnid/aTastyArrayBurger#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
