@@ -158,3 +158,61 @@ let burgerElements = [
  * q17 - use the array.join function with a "*" symbol to make a string from burgersOrder 
  * console log the result
  */
+
+/**
+ * q18 - Using documenent.getElementsByTagName("tag name here")[0], store the body tag in a variable
+ * create an H1 tag, and give it the title of "Tasty Burger Emporium". using innerText
+ * append the h1 tag to the body
+ */
+//let bodyTag = document.getElementsByTagName("add tag name here")[0];
+
+
+/**
+ * q19 - uncomment the code below and write descriptive comments on what each line does
+ */
+/*let pattySection = document.createElement("section");
+let pattyTitle = document.createElement("h2");
+pattyTitle.innerText = "Burger Patties";
+pattySection.appendChild(pattyTitle);
+bodyTag.appendChild(pattySection);
+
+let pattyDisplay = document.createElement("ul");
+pattyDisplay.id="patties";
+pattySection.appendChild(pattyDisplay);
+pattieList.forEach(function(patty){
+  let pattyItem = document.createElement("li");
+  pattyItem.innerText = patty;
+  pattyDisplay.appendChild(pattyItem);
+});
+*/
+
+/**
+ * q20 - Use the example of the patties to make a buns list on the stage
+ */
+
+/**
+ * q21 - Use the same example code to make a cheese list on the stage
+ */
+
+/**
+ * q22 - Use the example code to make a veggies list on the page
+ */
+
+/**
+ * q23 - Use the example code to make a meat toppings list on the page
+ */
+
+
+/**
+ * q24 - Use the example code to make a sauces list on the page
+ */
+
+/**
+ * q25 - Use the sample code to make a section called "burger specials"
+ * add your two custom burgers to the section
+ */
+
+/**
+ * q26 - Have a look at the webpage for a restaurant(ideally a burger restaurant)
+ * Use css in a file called style.css to make your page look like a restaurant page
+ */
