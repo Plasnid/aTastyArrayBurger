@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Plasnid/aTastyArrayBurger#readme",
   "devDependencies": {
-    "lite-server": "^2.5.3"
+    "lite-server": "^2.5.4"
   }
 }
